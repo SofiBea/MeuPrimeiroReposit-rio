@@ -1,8 +1,6 @@
-# PRIMEIROGIT
+# NOVA BRANCHE
 
-Olá Mundo! Primeiro Projeto GIT para a aula de SW do Segundo Bimestre.
-
-Sofia Beatriz da Silva Pinto. 2 Informárica A Grupo A
+Teste de nova branche em GIT HUB para atividade do dia 06/06/2025
 
 ## Proposta da Atividade
 
